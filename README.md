@@ -36,6 +36,7 @@ _______
 - Nostrgram - https://nostrgram.co
 - nostr.band - https://nostr.band
 - nostrnests - https://nostrnests.com
+- hatbot Nostr - Chatbot UI is an open source clone of OpenAI's ChatGPT UI. https://chatbot-nostr.vercel.app/
 
 #### iOS
 Damus - Dies ist der erste und beste iOS-Client für Nostr. Sehen Sie sich unseren Leitfaden hier an. https://apps.apple.com/app/damus/id1628663131
@@ -43,6 +44,32 @@ Damus - Dies ist der erste und beste iOS-Client für Nostr. Sehen Sie sich unser
 
 #### Android
 Amethyst - Ein schöner Client für Android. Sehen Sie sich unseren Leitfaden hier an. https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst&pli=1
+
+
+#### unsort 
+
+Nostr Daisy - https://github.com/neb-b/daisy/releases
+
+Astral (PWA) - https://astral.ninja/
+
+Coracle (PWA) - https://coracle.social/
+
+Nostros - https://github.com/KoalaSat/nostros/releases
+
+Arc - https://github.com/ArcadeLabsInc/arc/releases
+
+Amethyst - https://github.com/vitorpamplona/amethyst/releases
+
+Nozzle - https://github.com/kaiwolfram/Nozzle/releases
+
+Notesr (PWA) - https://notesr.social/
+
+Camelus - Apk available in https://camelus.app/
+
+Blockcore Notes (PWA) - https://notes.blockcore.net/
+
+Hamstr.to (PWA) - https://hamstr.to
+
 
 
 
