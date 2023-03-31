@@ -30,10 +30,20 @@ _______
 
 
 ## Clients
-- https://nostrgram.co/
-- https://nostr.band/
-- https://nostrnests.com/
-- 
+#### Web
+- Iris - Dies ist der von uns empfohlene Client für neue Benutzer. Hier finden Sie unseren Leitfaden. https://iris.to/
+- Snort - https://snort.social/
+- Nostrgram - https://nostrgram.co
+- nostr.band - https://nostr.band
+- nostrnests - https://nostrnests.com
+
+#### iOS
+Damus - Dies ist der erste und beste iOS-Client für Nostr. Sehen Sie sich unseren Leitfaden hier an. https://apps.apple.com/app/damus/id1628663131
+
+
+#### Android
+Amethyst - Ein schöner Client für Android. Sehen Sie sich unseren Leitfaden hier an. https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst&pli=1
+
 
 
 ## Lib
