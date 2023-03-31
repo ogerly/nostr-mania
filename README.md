@@ -24,7 +24,6 @@ _______
 - [Nostr Unterschiede zu Blockchain und anderen Lösungen](https://github.com/ogerly/nostr-mania/blob/main/Nostr-Unterschiede-zu-Blockchain-und-anderen-Loesungen.md)
 - [Am NOSTR-Protokoll basteln. Wird es Twitter übernehmen?](https://github.com/ogerly/nostr-mania/blob/main/tinkering-with-the-nostr-protocol-will-it-take-twitter-over.md)
 - [Was sind Zaps?](https://github.com/ogerly/nostr-mania/blob/main/nostr-was-sind-zaps.md)
-- [Lassen Sie sich NIP-05 verifizieren](https://github.com/ogerly/nostr-mania/blob/main/Lassen-Sie-sich-NIP-05-verifizieren.md)
 
 
 _______
@@ -38,6 +37,7 @@ _______
 - nostr.band - https://nostr.band
 - nostrnests - https://nostrnests.com
 - Chatbot Nostr - Chatbot UI is an open source clone of OpenAI's ChatGPT UI. https://chatbot-nostr.vercel.app/
+- nostrid - https://web.nostrid.app/
 
 #### iOS
 Damus - Dies ist der erste und beste iOS-Client für Nostr. Sehen Sie sich unseren Leitfaden hier an. https://apps.apple.com/app/damus/id1628663131
