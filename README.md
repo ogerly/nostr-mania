@@ -23,6 +23,7 @@ _______
 
 - [Nostr Unterschiede zu Blockchain und anderen Lösungen](https://github.com/ogerly/nostr-mania/blob/main/Nostr-Unterschiede-zu-Blockchain-und-anderen-Loesungen.md)
 - [Am NOSTR-Protokoll basteln. Wird es Twitter übernehmen?](https://github.com/ogerly/nostr-mania/blob/main/tinkering-with-the-nostr-protocol-will-it-take-twitter-over.md)
+- [Was sind Zaps?](https://github.com/ogerly/nostr-mania/blob/main/nostr-was-sind-zaps.md)
 
 
 _______
