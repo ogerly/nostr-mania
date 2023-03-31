@@ -36,7 +36,7 @@ _______
 - Nostrgram - https://nostrgram.co
 - nostr.band - https://nostr.band
 - nostrnests - https://nostrnests.com
-- hatbot Nostr - Chatbot UI is an open source clone of OpenAI's ChatGPT UI. https://chatbot-nostr.vercel.app/
+- Chatbot Nostr - Chatbot UI is an open source clone of OpenAI's ChatGPT UI. https://chatbot-nostr.vercel.app/
 
 #### iOS
 Damus - Dies ist der erste und beste iOS-Client für Nostr. Sehen Sie sich unseren Leitfaden hier an. https://apps.apple.com/app/damus/id1628663131
