@@ -1,5 +1,8 @@
 # nostr-mania
 
+## Infos 
+
+- [Am NOSTR-Protokoll basteln. Wird es Twitter übernehmen?](https://github.com/ogerly/nostr-mania/blob/main/tinkering-with-the-nostr-protocol-will-it-take-twitter-over)
 
 ## Clients
 - https://nostrgram.co/
